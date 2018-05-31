@@ -1,4 +1,4 @@
 # Table of contents
 
-* Initial page
+* [About Verse](README.md)
 
